@@ -7,7 +7,7 @@
 const char* ssid = "W";
 const char* password = "11111111";
 
-String phoneNumber = "+6282255234109";
+String phoneNumber = "+628xxxxxx"; //Phone Number
 String apiKey = "9101314";
 
 #define DHTPIN 15    
